@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ineyalca.github.io/sitemap.html.gz
+Sitemap: https://ineyalca.github.io/app/sitemap.html.gz
+Sitemap: https://ineyalca.github.io/assets/sitemap.html.gz
+Sitemap: https://ineyalca.github.io/css/sitemap.html.gz
+Sitemap: https://ineyalca.github.io/data/sitemap.html.gz
+Sitemap: https://ineyalca.github.io/includes/sitemap.html.gz
+Sitemap: https://ineyalca.github.io/item/sitemap.html.gz
+Sitemap: https://ineyalca.github.io/src/sitemap.html.gz
